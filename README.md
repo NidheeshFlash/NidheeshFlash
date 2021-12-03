@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NidheeshFlash
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning Python(beginner)
+- 🌱 I’m looking to HTML, CSS and trying to build simple forms.
 - 💞️ I’m looking to collaborate on a project
 - 📫 Reach me via nidheeshsmenon@gmail.com
 
